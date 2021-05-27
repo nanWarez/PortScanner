@@ -10,5 +10,6 @@ OS = Kali Linux
 - [ ] msfvenom
 - [ ] nmap
 - [ ] wireshark
+- [ ] meterpreter
 
 - TODO: https://youtu.be/kWUsFVog2zo
