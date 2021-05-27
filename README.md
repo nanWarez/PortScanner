@@ -10,3 +10,5 @@ OS = Kali Linux
 - [ ] msfvenom
 - [ ] nmap
 - [ ] wireshark
+
+- TODO: https://youtu.be/kWUsFVog2zo
